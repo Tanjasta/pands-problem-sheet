@@ -1,7 +1,7 @@
 # pands-problem-sheet 
 
 
-## Weekly_Task
+## Weekly_Tasks
 Heloworld.py says "Hello World"
 $pythonbank.py gives an answer in the correct form of euro and cents
 
