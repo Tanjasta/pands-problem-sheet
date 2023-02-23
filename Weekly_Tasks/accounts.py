@@ -7,4 +7,5 @@
 # XXXXXX7890
 
 account_number = input ("Please enter an 10 digit account number:") # we are geting input from the user to enter their acount number
-print (account_number)
+print (account_number) # prints the number entered by the user
+print (account_number [-4:]) # prints four last numbers
