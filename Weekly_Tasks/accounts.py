@@ -6,5 +6,5 @@
 # Please enter an 10 digit account number: 1234567890
 # XXXXXX7890
 
-account_number = input ("Please enter an 10 digit account number:")
+account_number = input ("Please enter an 10 digit account number:") # we are geting input from the user to enter their acount number
 print (account_number)
