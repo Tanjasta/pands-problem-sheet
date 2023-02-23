@@ -8,5 +8,3 @@
 
 account_number = input ("Please enter an 10 digit account number:")
 print (account_number)
-
-
