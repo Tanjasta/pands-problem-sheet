@@ -12,4 +12,5 @@ x = int (input ("Enter amount1 (in cent):")) # we get an input of 65 from the us
 y = int (input ("Enter amount2 (in cent):")) # we get an input of 180 from the user
 answer = int (x + y) # we get sum of two amounts 
 answer = int ( x + y)/100 # added /100 to get amount in format of euro and cent ( because 100 cent in one euro)
-print (" {} plus {} The sum of this is € {}" .format (x, y, answer)) #prints out the answer in a human readable format with a euro sign and decimal point between the euro and cent 
+print (" {} plus {} The sum of this is € {}" .format (x, y, answer)) 
+#prints out the answer in a human readable format with a euro sign and decimal point between the euro and cent 
