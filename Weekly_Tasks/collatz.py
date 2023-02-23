@@ -4,3 +4,6 @@
 # It taks the current value and, if it is even, divids it by two, but if it is odd, multiplies it by three and add one
 # The program ends if the current value is one
 # Author: Tatjana Staunton
+
+number = input ("Please enter a positive integer: ") # asks user to input any positive int
+print (number)
