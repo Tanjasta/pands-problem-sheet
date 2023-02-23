@@ -1,0 +1,6 @@
+# collatz.py
+# This program asks the user to input any positive integer and outputs the successive values of the following calculation
+# At each step program calculates the next value 
+# It taks the current value and, if it is even, divids it by two, but if it is odd, multiplies it by three and add one
+# The program ends if the current value is one
+# Author: Tatjana Staunton
