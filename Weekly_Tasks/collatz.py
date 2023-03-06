@@ -5,9 +5,13 @@
 # The program ends if the current value is one
 # Author: Tatjana Staunton
 
-number = input ("Please enter a positive integer (1 to quit): ") # asks user to input any positive int
-# when user puts 1 or calculations will reach 1 program stops
-while number != 1:
+number = int (input ("Please enter a positive integer: ")) # asks user to input any positive int
+while number != 1: # if user puts 1, program stops if not one will print number
     print (number)
-    if number %2 ==0
-    print (number/ 2)
+    if number % 2 == 0: # if number even then number = number devided by 2
+        number = number / 2
+        print (number)
+    else:
+        number = number * 3 + 1 # if nubrer not even then * by 3 and add 1
+        print (number)
+
