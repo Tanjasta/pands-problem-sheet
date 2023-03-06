@@ -5,5 +5,9 @@
 # The program ends if the current value is one
 # Author: Tatjana Staunton
 
-number = input ("Please enter a positive integer: ") # asks user to input any positive int
-print (number)
+number = input ("Please enter a positive integer (1 to quit): ") # asks user to input any positive int
+# when user puts 1 or calculations will reach 1 program stops
+while number != 1:
+    print (number)
+    if number %2 ==0
+    print (number/ 2)
