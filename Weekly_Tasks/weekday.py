@@ -3,4 +3,4 @@
 # Author: Tatjana Staunton
 
 day = (input ("Please enter today's Day: "))
-
+day = {}
