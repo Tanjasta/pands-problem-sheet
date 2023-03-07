@@ -7,11 +7,11 @@
 
 number = int (input ("Please enter a positive integer: ")) # asks user to input any positive int
 while number != 1: # if user puts 1, program stops if not one will print number
-    print (number)
+    print (int (number)) # int added to get number in format without .0
     if number % 2 == 0: # if number even then number = number devided by 2
         number = number / 2
-        print (number)
+        print (int (number)) # int added to get number whitout .0
     else:
-        number = number * 3 + 1 # if nubrer not even then * by 3 and add 1
-        print (number)
+        number = number * 3 + 1  # if numbrer not even, then * by 3 and add 1
+        print (int (number)) # int added to get number in format with no .0
 
