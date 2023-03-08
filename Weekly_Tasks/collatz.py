@@ -15,3 +15,5 @@ while number != 1: # if user puts 1, program stops if not one will print number
         number = number * 3 + 1  # if numbrer not even, then * by 3 and add 1
         print (int (number)) # int added to get number in format with no .0
 
+        
+
