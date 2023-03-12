@@ -30,6 +30,13 @@ Task 3: create a python program called accounts.py that reads in a 10 character 
 https://web.microsoftstream.com/video/2b9fe960-c152-48a1-a0f0-c01cfdbccf49
 https://railsware.com/blog/python-for-machine-learning-indexing-and-slicing-for-lists-tuples-strings-and-other-sequential-types/#Taking_n_first_elements_of_a_list
 
+#### Task 4 - Collatz
+
+
+*Referances*
+https://hackernoon.com/implementing-3x1-in-python
+
+
 
 
 
