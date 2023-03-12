@@ -4,12 +4,17 @@ This repository created for the Programming and Scripting module on the ATU Mayo
 
 ## Weekly Tasks
 #### Task 1 - Hello World
-Task 1 is to create a file that contains a python program that displays ** Hello World! ** when it is run.
+Task 1 is to create a file that contains a python program that displays **Hello World!** when it is run.A file named helloworld.py was created. The program successfully displays **Hello World!** when it is run.
+
+*Reference*
+https://www.git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
+https://web.microsoftstream.com/video/dcf6b527-c0ee-40e3-b7b5-8f77c861175c
 
 
 
-Heloworld.py says "Hello World"
-$pythonbank.py gives an answer in the correct form of euro and cents
+#### Task 2 - Bank
+Task 2 is to create a file that contains a python program that displays the answer to a callculation in a format with a euro sign and decimal point between the euro and cent. 
+The program prompts the user to enter two different amouns in cents. Then adds two amounts togetherand reads in two money amounts (in cent). Then it displays the answer to the task in a human readable format with a euro sign and decimal point between the euro and cent of the calculated amount.A file named pythonbank.py was created to work on sullutions to the task. The program pythonbank.py succesfully displays an answer in the correct form of euro and cents.
 
 
 

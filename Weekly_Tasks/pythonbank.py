@@ -1,6 +1,6 @@
 # $ python bank.py
-# This program prompt the user and read in two money amounts (in cent)
-# Adds the two amounts
+# This program prompts the user to enter two amouns and reads in two money amounts (in cent)
+# Adds the two amounts together
 # Prints out the answer in a human readable format with a euro sign and decimal point between the euro and cent of the amount 
 # Author: Tatjana Staunton
 # Enter amount1(in cent): 65
