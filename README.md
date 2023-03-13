@@ -29,13 +29,24 @@ Task 3: create a python program called accounts.py that reads in a 10 character 
 *Referances*
 https://web.microsoftstream.com/video/2b9fe960-c152-48a1-a0f0-c01cfdbccf49
 https://railsware.com/blog/python-for-machine-learning-indexing-and-slicing-for-lists-tuples-strings-and-other-sequential-types/#Taking_n_first_elements_of_a_list
+https://www.w3schools.com/python/python_strings_slicing.asp
+https://web.microsoftstream.com/video/6d71eac4-c480-4951-9e23-c6366b9cfbba
+https://chat.openai.com/chat
 
 #### Task 4 - Collatz
 
 
 *Referances*
 https://hackernoon.com/implementing-3x1-in-python
-
+https://www.youtube.com/watch?v=AWek49wXGzI&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg&index=3
+https://www.youtube.com/watch?v=6TEGxJXLAWQ&list=PLBZBJbE_rGRWeh5mIBhD-hhDwSEDxogDg&index=6
+https://vlegalwaymayo.atu.ie/pluginfile.php/857756/mod_label/intro/Lab%204.2%20loops.pdf?time=1676413047731
+https://vlegalwaymayo.atu.ie/pluginfile.php/857756/mod_label/intro/Lab%204.1%20if.pdf?time=1676413032542
+https://web.microsoftstream.com/video/dc554d4e-d988-4502-ae67-d47c18d5e3ab?referrer=https:%2F%2Fvlegalwaymayo.atu.ie%2F
+https://web.microsoftstream.com/video/7d9f8342-6c23-45af-96ed-44d70539ac64?list=studio
+https://realpython.com/python-while-loop/
+https://www.w3schools.com/python/python_conditions.asp
+https://www.w3schools.com/python/python_while_loops.asp
 
 
 
