@@ -24,7 +24,7 @@ https://www.w3schools.com/python/python_strings_format.asp
 https://vlegalwaymayo.atu.ie/pluginfile.php/857752/mod_label/intro/lab%203.1%20Variables%20and%20state.pdf?time=1675863678047
 
 #### Task 3 - Accounts
-Task 3: create a python program called accounts.py that reads in a 10 character account number and outputs the account number where only the last 4 digits are showing and the first 6 digits are replaced with X. Prodram gets output from the user in a form of 10 digits account number and after some manipulation outputs the number where only first 4 numbers are visible and the remaining 6 numbers are replased with X.
+Task 3: create a python program called accounts.py that reads in a 10 character account number and outputs the account number where only the last 4 digits are showing and the first 6 digits are replaced with X. Prodram gets output from the user in a form of 10 digits account number and after some manipulation outputs the number where only first 4 numbers are visible and the remaining 6 numbers are replased with X. A file named pythonbank.py was created to work on sullutions to the task. When run, the program outputs the number where only first 4 numbers are visible and the remaining 6 numbers are replased with X.
 
 *Referances*
 https://web.microsoftstream.com/video/2b9fe960-c152-48a1-a0f0-c01cfdbccf49
@@ -34,6 +34,7 @@ https://web.microsoftstream.com/video/6d71eac4-c480-4951-9e23-c6366b9cfbba
 https://chat.openai.com/chat
 
 #### Task 4 - Collatz
+Task 4: create a program, called collatz.py, that asks the user to input any positive integer and outputs the successive values of the following calculation. At each step it calculates the next value by taking the current value and, if it is even, divides it by two, but if it is odd, multiplies it by three and adds one. The program ends if the current value is one.
 
 
 *Referances*
@@ -49,6 +50,8 @@ https://www.w3schools.com/python/python_conditions.asp
 https://www.w3schools.com/python/python_while_loops.asp
 
 #### Task 5 - Weekday
+Task 5 - create a program, named weekday.py, that outputs whether or not today is a weekday. The weekday.py program was created. When run the program has two types of output. If thwe current day is weekday it outputs 'Yes, unfortinately today is a weekday.' If the current day is a weekend day it outputs 'It is a weekend, yay.'
+
 
 *Referances*
 https://www.hellocodeclub.com/python-get-day-of-week
@@ -61,6 +64,19 @@ https://www.geeksforgeeks.org/python-datetime-module/
 https://realpython.com/python-datetime/
 https://www.programiz.com/python-programming/modules#:~:text=Module%20is%20a%20file%20that,Let%20us%20create%20a%20module.
 https://www.programiz.com/python-programming/datetime
+
+
+#### Task 6 - Squareroot
+Task 6: create a program that takes a positive floating-point number as input and outputs an approximation of its square root.
+Create a function called <tt>sqrt</tt> that does this and not to use the built in functions x ** .5 or math.sqrt(x).
+
+
+*Referances*
+
+#### Task 7 - Count of the letter e in the text file
+Write a program that reads in a text file and outputs the number of e's it contains. The program should take the filename from an argument on the command line.
+
+*References*
 
 
 
