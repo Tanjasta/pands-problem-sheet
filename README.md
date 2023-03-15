@@ -55,6 +55,12 @@ https://www.hellocodeclub.com/python-get-day-of-week
 https://pynative.com/python-get-the-day-of-week/
 https://pythontic.com/datetime/date/weekday
 https://stackoverflow.com/questions/29384696/how-to-find-current-day-is-weekday-or-weekends-in-python
+https://www.geeksforgeeks.org/python-datetime-module/
+https://www.w3schools.com/python/python_datetime.asp
+https://www.geeksforgeeks.org/python-datetime-module/
+https://realpython.com/python-datetime/
+https://www.programiz.com/python-programming/modules#:~:text=Module%20is%20a%20file%20that,Let%20us%20create%20a%20module.
+https://www.programiz.com/python-programming/datetime
 
 
 
