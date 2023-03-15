@@ -54,6 +54,7 @@ Task 5 - create a program, named weekday.py, that outputs whether or not today i
 
 
 *Referances*
+https://web.microsoftstream.com/video/54ad91ce-105a-40fd-89fb-8464a1750046?referrer=https:%2F%2Fvlegalwaymayo.atu.ie%2F
 https://www.hellocodeclub.com/python-get-day-of-week
 https://pynative.com/python-get-the-day-of-week/
 https://pythontic.com/datetime/date/weekday
