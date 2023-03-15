@@ -48,6 +48,14 @@ https://realpython.com/python-while-loop/
 https://www.w3schools.com/python/python_conditions.asp
 https://www.w3schools.com/python/python_while_loops.asp
 
+#### Task 5 - Weekday
+
+*Referances*
+https://www.hellocodeclub.com/python-get-day-of-week
+https://pynative.com/python-get-the-day-of-week/
+https://pythontic.com/datetime/date/weekday
+https://stackoverflow.com/questions/29384696/how-to-find-current-day-is-weekday-or-weekends-in-python
+
 
 
 
