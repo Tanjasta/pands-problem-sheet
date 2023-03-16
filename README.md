@@ -80,6 +80,7 @@ https://www.geeksforgeeks.org/square-root-of-a-number-without-using-sqrt-functio
 https://stackoverflow.com/questions/19611198/finding-square-root-without-using-sqrt-function
 https://web.microsoftstream.com/video/10124936-7470-493c-8e8b-35286b0cb60d
 https://www.geeksforgeeks.org/square-root-of-an-integer/
+https://www.tutorialspoint.com/How-to-perform-square-root-without-using-math-module-in-Python
 
 
 #### Task 7 - Count of the letter e in the text file
