@@ -31,7 +31,6 @@ https://web.microsoftstream.com/video/2b9fe960-c152-48a1-a0f0-c01cfdbccf49
 https://railsware.com/blog/python-for-machine-learning-indexing-and-slicing-for-lists-tuples-strings-and-other-sequential-types/#Taking_n_first_elements_of_a_list
 https://www.w3schools.com/python/python_strings_slicing.asp
 https://web.microsoftstream.com/video/6d71eac4-c480-4951-9e23-c6366b9cfbba
-https://chat.openai.com/chat
 
 #### Task 4 - Collatz
 Task 4: create a program, called collatz.py, that asks the user to input any positive integer and outputs the successive values of the following calculation. At each step it calculates the next value by taking the current value and, if it is even, divides it by two, but if it is odd, multiplies it by three and adds one. The program ends if the current value is one.
@@ -69,10 +68,19 @@ https://www.programiz.com/python-programming/datetime
 
 #### Task 6 - Squareroot
 Task 6: create a program that takes a positive floating-point number as input and outputs an approximation of its square root.
-Create a function called <tt>sqrt</tt> that does this and not to use the built in functions x ** .5 or math.sqrt(x).
+without using the built in functions x ** .5 or math.sqrt(x).
 
 
 *Referances*
+https://www.mathplanet.com/education/algebra-1/exploring-real-numbers/square-roots#:~:text=Negative%20numbers%20doesn't%20have,is%20either%20positive%20or%200.&text=If%20the%20radicand%20is%20not,%E2%88%9A3%20as%20an%20answer).
+https://www.w3schools.com/python/ref_keyword_none.asp
+https://www.w3schools.com/python/python_functions.asp
+https://www.geeksforgeeks.org/python-none-keyword/
+https://www.geeksforgeeks.org/square-root-of-a-number-without-using-sqrt-function/
+https://stackoverflow.com/questions/19611198/finding-square-root-without-using-sqrt-function
+https://web.microsoftstream.com/video/10124936-7470-493c-8e8b-35286b0cb60d
+https://www.geeksforgeeks.org/square-root-of-an-integer/
+
 
 #### Task 7 - Count of the letter e in the text file
 Write a program that reads in a text file and outputs the number of e's it contains. The program should take the filename from an argument on the command line.
