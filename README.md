@@ -49,7 +49,7 @@ https://www.w3schools.com/python/python_conditions.asp
 https://www.w3schools.com/python/python_while_loops.asp
 
 #### Task 5 - Weekday
-Task 5 - create a program, named weekday.py, that outputs whether or not today is a weekday. The weekday.py program was created. When run the program has two types of output. If the current day is weekday it outputs 'Yes, unfortinately today is a weekday.' If the current day is a weekend day it outputs 'It is a weekend, yay.' The program was tested on both week day and weekend day. On both occasions program outputs a desired outcome.
+Task 5 - create a program, named weekday.py, that outputs whether or not today is a weekday. The weekday.py program was created. When run the program has two types of output. If the current day is weekday it outputs 'Yes, unfortinately today is a weekday.' If the current day is a weekend day it outputs 'It is a weekend, yay.' The program was tested on both week day and weekend day. On both occasions program outputs desired outcome.
 
 
 *Referances*
