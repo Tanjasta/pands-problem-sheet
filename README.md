@@ -84,7 +84,7 @@ https://www.tutorialspoint.com/How-to-perform-square-root-without-using-math-mod
 
 
 #### Task 7 - Count of the letter e in the text file
-Write a program that reads in a text file and outputs the number of e's it contains. The program should take the filename from an argument on the command line.
+Task 7: write a program that reads in a text file and outputs the number of 'e's it contains. The program takes the filename from an argument on the command line.  The program reads though the text file and counts all instances of 'e', both capital and low case.
 
 *References*
 
