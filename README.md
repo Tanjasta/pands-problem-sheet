@@ -84,9 +84,14 @@ https://www.tutorialspoint.com/How-to-perform-square-root-without-using-math-mod
 
 
 #### Task 7 - Count of the letter e in the text file
-Task 7: write a program that reads in a text file and outputs the number of 'e's it contains. The program takes the filename from an argument on the command line.  The program reads though the text file and counts all instances of 'e', both capital and low case.
+Task 7: write a program that reads in a text file and outputs the number of 'e's it contains. The program takes the filename from an argument on the command line.  The program reads through the text file and counts all instances of 'e', both capital and low case.
+Referense used to create a text on comand line: https://www.smule.com/song/the-big-bang-theory-soft-kitty-warm-kitty-karaoke-lyrics/343064527_1870193/arrangement
+
 
 *References*
+https://www.youtube.com/watch?v=qj0h1CLENzk
+https://www.geeksforgeeks.org/python-sys-module/
+https://www.tutorialspoint.com/python/python_command_line_arguments.htm#
 
 
 
