@@ -88,7 +88,6 @@ Task 7: write a program that reads in a text file and outputs the number of 'e's
 
 
 *References*
-https://www.youtube.com/watch?v=qj0h1CLENzk
 https://www.geeksforgeeks.org/python-sys-module/
 https://www.tutorialspoint.com/python/python_command_line_arguments.htm#
 
