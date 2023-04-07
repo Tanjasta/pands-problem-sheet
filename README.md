@@ -94,6 +94,7 @@ Referense for the data.txt file is https://the-big-bang-theory.com/soft_kitty/
 https://web.microsoftstream.com/video/a2ba3a79-e22c-4997-9362-ad558fca31ef?referrer=https:%2F%2Fvlegalwaymayo.atu.ie%2F
 https://www.w3schools.com/python/python_file_open.asp
 https://realpython.com/working-with-files-in-python/
+https://www.geeksforgeeks.org/count-the-number-of-times-a-letter-appears-in-a-text-file-in-python/
 
 
 
