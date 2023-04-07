@@ -2,8 +2,8 @@
 # It takes the filename from an argument on the command line
 # Author: Tatjana Staunton
 
-
-FILENAME = "data.txt"
+# created small txt file named data.txt
+FILENAME = "data.txt" # defined FILENAME
 with open (FILENAME, 'rt') as f:
     for data in f:
         print(data)
