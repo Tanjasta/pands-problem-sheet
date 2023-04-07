@@ -13,3 +13,9 @@ filename = input("Please enter file name:") #asking user to input name of the fi
 with open (filename, 'rt') as f: 
     for data in f:
         print("The data in the file is: "+ data) # read file and print out the content
+        count = 0
+for letter in filename: # cheking the letters
+    if letter == 'e': # cheking if letter is e
+        count += 1
+
+print(f"The text '{filename}' contains {count} occurrences of the letter 'e'.")
