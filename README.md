@@ -32,6 +32,13 @@ https://railsware.com/blog/python-for-machine-learning-indexing-and-slicing-for-
 https://www.w3schools.com/python/python_strings_slicing.asp
 https://web.microsoftstream.com/video/6d71eac4-c480-4951-9e23-c6366b9cfbba
 
+#### Task 3a - Accounts Modified
+Task 3a: to modify task 3 program to read in account numbers of any lenght.
+
+*Referances*
+https://www.w3schools.com/python/ref_func_len.asp
+https://www.geeksforgeeks.org/python-exit-commands-quit-exit-sys-exit-and-os-_exit/
+
 #### Task 4 - Collatz
 Task 4: create a program, called collatz.py, that asks the user to input any positive integer and outputs the successive values of the following calculation. At each step it calculates the next value by taking the current value and, if it is even, divides it by two, but if it is odd, multiplies it by three and adds one. The program ends if the current value is one.
 
