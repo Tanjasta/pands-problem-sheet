@@ -33,10 +33,11 @@ https://www.w3schools.com/python/python_strings_slicing.asp
 https://web.microsoftstream.com/video/6d71eac4-c480-4951-9e23-c6366b9cfbba
 
 #### Task 3a - Accounts Modified
-Task 3a: to modify task 3 program to read in account numbers of any lenght.
+Task 3a: to modify task 3 program to read in bank account number of any length and display the last 4 digits of the account number for account numbers greater than 4 digits in length and the first 6 are replased with X.
 
 *Referances*
 https://www.w3schools.com/python/ref_func_len.asp
+https://realpython.com/python-strings/
 https://www.geeksforgeeks.org/python-exit-commands-quit-exit-sys-exit-and-os-_exit/
 
 #### Task 4 - Collatz
