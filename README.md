@@ -112,6 +112,18 @@ and a plot of the function  h(x)=x3 in the range [0, 10],
 on the one set of axes.
 
 
+*References*
+https://web.microsoftstream.com/video/1eb0d09e-7c91-4fe0-af5f-4ad8d6546dac
+https://web.microsoftstream.com/video/0ad1b00a-57e5-4deb-9b6f-d549731b55e1?referrer=https:%2F%2Fvlegalwaymayo.atu.ie%2F
+https://realpython.com/preview/numpy-random-normal/
+https://realpython.com/python-histograms/
+https://www.w3schools.com/python/matplotlib_intro.asp
+https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html
+https://www.geeksforgeeks.org/how-to-plot-normal-distribution-over-histogram-in-python/
+https://www.datacamp.com/tutorial/histograms-matplotlib
+https://rowannicholls.github.io/python/graphs/ax_based/histograms.html
+https://stackoverflow.com/questions/10138085/how-to-plot-normal-distribution
+
 
 
 
