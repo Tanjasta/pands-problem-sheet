@@ -118,6 +118,7 @@ https://web.microsoftstream.com/video/0ad1b00a-57e5-4deb-9b6f-d549731b55e1?refer
 https://realpython.com/preview/numpy-random-normal/
 https://realpython.com/python-histograms/
 https://www.w3schools.com/python/matplotlib_intro.asp
+https://www.w3schools.com/python/numpy/numpy_random_normal.asp
 https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html
 https://www.geeksforgeeks.org/how-to-plot-normal-distribution-over-histogram-in-python/
 https://www.datacamp.com/tutorial/histograms-matplotlib
