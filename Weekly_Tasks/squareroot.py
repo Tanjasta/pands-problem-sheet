@@ -1,4 +1,6 @@
-
+# squareroot.py
+# This program takes a positive floating-point number as input and outputs an approximation of its square root
+# Author Tatjana Staunton
 
 def sqrt_approx(num): # define function with number (num) which used to find an approximation of its square root
 

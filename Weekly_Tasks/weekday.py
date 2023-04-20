@@ -1,5 +1,5 @@
 # weekday.py
-#This program outputs whether or not today is a weekday
+# This program outputs whether or not today is a weekday
 # If today is a weekday it uotputs 'Yes, unfortinately today is a weekday.'
 # If today is a weekend day it outputs 'It is a weekend, yay.'
 # Author: Tatjana Staunton

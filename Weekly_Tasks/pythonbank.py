@@ -1,4 +1,4 @@
-# $ python bank.py
+# pythonbank.py
 # This program prompts the user to enter two amouns and reads in two money amounts (in cent)
 # Adds the two amounts together
 # Prints out the answer in a human readable format with a euro sign and decimal point between the euro and cent of the amount 
