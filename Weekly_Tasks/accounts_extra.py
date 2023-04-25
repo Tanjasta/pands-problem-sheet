@@ -1,6 +1,6 @@
 # accounts_extra.py
 # This program reads in an account numbers of any length
-# Outputs the account number of any lenghth with the first 6 digits replaced with X
+# Outputs the account number of any lenghth with only 4 last digits displayed and the numbers before that replaced with X
 # Author: Tatjana Staunton
 
 account_number = input("Please enter your account number: ") # we are geting input from the user to enter their acount number
