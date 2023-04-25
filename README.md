@@ -8,9 +8,10 @@ This repository was created for the Programming and Scripting module of the ATU 
 Task 1: Create a file that contains a Python program which displays **Hello World!** when executed. A file named 'helloworld.py' was created to perform this task. The program successfully displays **Hello World!** when executed.
 
 
-*Reference:*
+*References:*
 
 https://www.git-scm.com/book/en/v2/Getting-Started-What-is-Git%3F
+
 https://web.microsoftstream.com/video/dcf6b527-c0ee-40e3-b7b5-8f77c861175c
 
 
