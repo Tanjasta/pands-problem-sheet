@@ -3,29 +3,20 @@
 # and a plot of the function  h(x)=x3 in the range [0, 10], on the one set of axes.
 # Author: Tatjana Staunton
 
-import numpy as np # Importing numpy
-import matplotlib.pyplot as plt # Importing matplot lib
 
-# Generates 1000 random values from a normal distribution with mean 5 and standard deviation 2
-values = np.random.normal(5, 2, 1000)
+import numpy as np # Imports numpy
+import matplotlib.pyplot as plt # Imports matplot lib
 
-# Creates a histogram of the values
-plt.hist(values, bins=50, density=True, alpha=0.5)
+values = np.random.normal(5, 2, 1000) # Generates 1000 random values from a normal distribution with mean 5 and standard deviation 2
 
-# Creating an array of x values in the range [0, 10]
-x = np.linspace(0, 10, 100)
+plt.hist(values, bins=10, alpha=0.5, label='Histogram') # Creates a histogram of the values with 10 bins
 
-# Defines the function h(x) = x^3
-def h(x):
-    return x**3
+x = np.linspace(0, 10, 100) # Creates an array of x values from 0 to 10 with 100 points
 
-# Compute the corresponding y values
-y = h(x)
-plt.plot(x, y, color='purple') # Plot the function h(x) on the same set of axes and add plot color
+y = x**3  # Calculates the y values for the function h(x) = x^3
 
-# Adds labels and a title
-plt.xlabel('value')  # add x-axis label
-plt.ylabel('Density') # add y-axis label
-plt.title('Histogram and Plot') # add plot title
+plt.plot(x, y, 'purple', label='Plot') # Plot the function h(x) on the same set of axes as the histogram
+
+plt.legend() # Adds a legend to the plot
 
 plt.show() # Shows the plot
