@@ -128,11 +128,16 @@ https://realpython.com/preview/numpy-random-normal/
 https://realpython.com/python-histograms/
 https://www.w3schools.com/python/matplotlib_intro.asp
 https://www.w3schools.com/python/numpy/numpy_random_normal.asp
+https://www.w3schools.com/python/matplotlib_histograms.asp
 https://www.oreilly.com/library/view/python-data-science/9781491912126/ch04.html
 https://www.geeksforgeeks.org/how-to-plot-normal-distribution-over-histogram-in-python/
+https://www.geeksforgeeks.org/bin-size-in-matplotlib-histogram/
 https://www.datacamp.com/tutorial/histograms-matplotlib
 https://rowannicholls.github.io/python/graphs/ax_based/histograms.html
 https://stackoverflow.com/questions/10138085/how-to-plot-normal-distribution
+https://matplotlib.org/stable/api/_as_gen/matplotlib.pyplot.hist.html
+
+
 
 
 
