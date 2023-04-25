@@ -33,6 +33,8 @@ https://web.microsoftstream.com/video/6d71eac4-c480-4951-9e23-c6366b9cfbba
 
 #### Task 3a - Accounts Modified
 Task 3a: Modify the third task's program to read in a bank account number of any length. The program should display the last 4 digits of the account number (where account numbers are greater than 4 digits in length) and replace the numbers before those with X. If the input account number is less than 4 digits long, the program should print out the message 'Invalid account number. Please enter a valid account number.' A file named 'accounts_extra.py' was created to work on solutions for this task. When run, the program successfully prints out the account number where the last 4 digits are displayed and the digits before that are replaced with X. When the input account number is shorter than 4 digits, the program prints out the message 'Invalid account number. Please enter a valid account number.
+
+
 *Referances*
 https://www.w3schools.com/python/ref_func_len.asp
 https://realpython.com/python-strings/
